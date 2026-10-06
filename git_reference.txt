@@ -1,0 +1,50 @@
+Main > Introduction Sequence
+Level 1: Introduction to Git Commits Success! -
+You solved the level in 2 command(s); our solution uses 2.
+
+Awesome! You matched our solution.
+
+Would you like to move on to "Branching in Git", the next level?
+
+Level 2: Branching in Git Success! - 
+You solved the level in 2 command(s); our solution uses 2.
+
+Awesome! You matched our solution.
+
+Would you like to move on to "Merging in Git", the next level?
+
+Level 3: Merging in Git Success! - 
+You solved the level in 6 command(s); our solution uses 5.
+
+See if you can whittle it down to 5 :D
+
+Would you like to move on to "Rebase Introduction", the next level?
+
+Remote > Push & Pull
+Level 3: Git Fetchin' Success! -
+You solved the level in 1 command(s); our solution uses 1.
+
+Awesome! You matched our solution.
+
+Would you like to move on to "Git Pullin'", the next level?
+
+Level 4: Git Pullin' Success! -
+You solved the level in 1 command(s); our solution uses 1.
+
+Awesome! You matched our solution.
+
+Would you like to move on to "Faking Teamwork", the next level?
+
+Level 5: Faking Teamwork Success! - 
+You solved the level in 4 command(s); our solution uses 4.
+
+Awesome! You matched our solution.
+
+Would you like to move on to "Git Pushin'", the next level?
+
+Level 6: Git Pushin' Success! - 
+You solved the level in 3 command(s); our solution uses 3.
+
+Awesome! You matched our solution.
+
+Would you like to move on to "Diverged History", the next level?
