@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+#blog_content {
+    background-color: lightgrey;
+}
+
+footer p {
+    border: 3px solid blue;
+    border-radius: 100%;
+    text-align: center;
+}
